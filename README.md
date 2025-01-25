@@ -1,8 +1,8 @@
 # Домашнее задание №1 к лекции «Компоненты»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/r43lf4ia8kgk9nqr?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ra-hw-1-1-functional-component)
+[![Build status](https://ci.appveyor.com/api/projects/status/r43lf4ia8kgk9nqr?svg=true)](https://ci.appveyor.com/project/MarusinaAnn/ra-hw-1.1)
 
-[Ссылка на Github Pages](https://yuriyvyatkin.github.io/ra-hw-1.1-functional-component/)
+[Ссылка на Github Pages](https://marusinaann.github.io/ra-hw-1.1/)
 
 Страница интернет-магазина
 ===
